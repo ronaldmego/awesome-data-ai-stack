@@ -177,18 +177,9 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet)
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - Chat with your SQL database. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents
-- [sdg-1/data-team-handbook](https://github.com/sdg-1/data-team-handbook) - Data team handbook
-- [melissavanbussel/spotify-dashboard](https://github.com/melissavanbussel/spotify-dashboard) - Entry for the Posit 2024 Table Contest
-- [business-science/modeltime](https://github.com/business-science/modeltime) - Modeltime unlocks time series forecast models and machine learning in one framework
 - [ganttrify](https://github.com/ganttrify/ganttrify) - Create beautiful Gantt charts with ggplot2
-- [tashapiro/tanya-data-viz](https://github.com/tashapiro/tanya-data-viz) - Personal data visualization side projects
-- [rolkra/explore](https://github.com/rolkra/explore) - R package that makes basic data exploration radically simple
-- [skforecast/skforecast](https://github.com/skforecast/skforecast) - Time series forecasting with machine learning models
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps
-- [gexijin/RTutor](https://github.com/gexijin/RTutor) - Chat with your data via AI
-- [rstudio-conf-2022/people-analytics-rstats](https://github.com/rstudio-conf-2022/people-analytics-rstats) - People analytics with R and stats
-- [joanby/tidyverse-data-science](https://github.com/joanby/tidyverse-data-science) - Curso de tidyverse para Data Science
 
 ## 🧠 ML & Data Science
 
@@ -197,7 +188,6 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: AI-Powered Personalized Learning Assistant
-- [honestsoul/generative_ai_project](https://github.com/honestsoul/generative_ai_project) - A structured template for building robust generative AI applications
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [Sumanth077/ai-engineering-toolkit](https://github.com/Sumanth077/ai-engineering-toolkit) - A curated list of 100+ libraries and frameworks for AI engineers building with LLMs
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
@@ -228,7 +218,6 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Perplexity Inspired Answer Engine
-- [mlverse/chattr](https://github.com/mlverse/chattr) - R package for chatting with LLMs
 
 ## 🛠️ DevTools & Infrastructure
 
@@ -247,7 +236,6 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [restyler/awesome-n8n](https://github.com/restyler/awesome-n8n) - Useful n8n resources: list of community nodes and tutorials
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers
-- [r-hub/pkgsearch](https://github.com/r-hub/pkgsearch) - Search R packages on CRAN
 
 ## 🌐 Web & Apps
 
@@ -256,7 +244,6 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [toon-format/toon](https://github.com/toon-format/toon) - Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
 - [iliane5/meridian](https://github.com/iliane5/meridian) - Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI
-- [daveebbelaar/python-whatsapp-bot](https://github.com/daveebbelaar/python-whatsapp-bot) - Build AI WhatsApp Bots with Pure Python
 
 ## 📚 Learning & Reference
 
