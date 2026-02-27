@@ -97,6 +97,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) - High-performance GraphRAG inspired from LightRag written in Rust
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - Zero-server code intelligence engine — client-side knowledge graph creator with built-in Graph RAG Agent for code exploration
 
 ### 💬 Conversational & Chat
 
