@@ -237,6 +237,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [restyler/awesome-n8n](https://github.com/restyler/awesome-n8n) - Useful n8n resources: list of community nodes and tutorials
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Right-size LLM models to your hardware. Detects CPU, RAM, GPU and scores models by quality, speed, fit and context. Supports Ollama, llama.cpp, MLX
 
 ## 🌐 Web & Apps
 
