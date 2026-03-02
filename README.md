@@ -163,6 +163,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online
 
 ## 📊 Data Engineering & Analytics
+- [FalkorDB/QueryWeaver](https://github.com/FalkorDB/QueryWeaver) - Open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding
 
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy
