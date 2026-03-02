@@ -14,6 +14,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
   - [💬 Conversational & Chat](#-conversational--chat)
   - [🌐 Browser & Web Agents](#-browser--web-agents)
   - [📚 Agent Resources & Guides](#-agent-resources--guides)
+- [🔐 AI Governance & Safety](#-ai-governance--safety)
 - [🎨 Avatar, Video & Image AI](#-avatar-video--image-ai)
 - [📊 Data Engineering & Analytics](#-data-engineering--analytics)
 - [🧠 ML & Data Science](#-ml--data-science)
@@ -141,6 +142,15 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way
+
+
+## 🔐 AI Governance & Safety
+
+- [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models. Validate and structure LLM outputs with programmable rules
+- [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Open-source toolkit for easily adding programmable guardrails to LLM-based conversational AI
+- [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360) - IBM AI Fairness 360 — comprehensive fairness metrics for datasets and ML models
+- [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI dashboard and tools for model and data exploration, error analysis, and fairness assessment
+- [whylabs/langkit](https://github.com/whylabs/langkit) - Open-source toolkit for monitoring Large Language Models — detect toxicity, hallucinations, and data quality issues
 
 ## 🎨 Avatar, Video & Image AI
 
