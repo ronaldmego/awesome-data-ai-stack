@@ -85,6 +85,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [coleam00/PydanticAI-Research-Agent](https://github.com/coleam00/PydanticAI-Research-Agent) - Pydantic AI Research Agent Built with the PRP Framework Template
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
+- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework based on the IETF's agency-spec
 
 ### 📝 Memory & RAG
 
@@ -230,6 +231,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Perplexity Inspired Answer Engine
+- [unslothai/notebooks](https://github.com/unslothai/notebooks) - Jupyter notebooks demonstrating LLM fine-tuning with Unsloth AI for efficient model training
 
 ## 🛠️ DevTools & Infrastructure
 
