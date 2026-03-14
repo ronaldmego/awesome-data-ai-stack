@@ -199,9 +199,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery) - Repository containing Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
-- [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: AI-Powered Personalized Learning Assistant
-- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [Sumanth077/ai-engineering-toolkit](https://github.com/Sumanth077/ai-engineering-toolkit) - A curated list of 100+ libraries and frameworks for AI engineers building with LLMs
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [cvs-health/uqlm](https://github.com/cvs-health/uqlm) - UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection
@@ -213,7 +211,6 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - An awesome Data Science repository to learn and apply for real world problems
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [Machine-Learning-Tokyo/Interactive_Tools](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) - Interactive Tools for Machine Learning, Deep Learning and Math
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
@@ -222,16 +219,16 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - Papers & tech blogs by companies sharing their work on data science & machine learning in production
-- [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Perplexity Inspired Answer Engine
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - Jupyter notebooks demonstrating LLM fine-tuning with Unsloth AI for efficient model training
+
+📚 **New to ML?** Check out [Learning & Reference](#-learning--reference) for courses and tutorials.
 
 ## 🛠️ DevTools & Infrastructure
 
@@ -263,10 +260,40 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 
 ## 📚 Learning & Reference
 
+*Educational resources, courses, and tutorials organized by topic.*
+
+> **📖 Categorization Guide:** Courses, tutorials, and learning resources go here. Tools, frameworks, and production libraries belong in their respective technical categories (e.g., 🧠 ML & Data Science). See [Contributing](#contributing) for details.
+
+### Data Science & ML
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+- [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of Machine Learning Coding
+- [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural networks: zero to hero
+- [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - Machine learning and deep learning tutorials, articles and other resources
+- [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn
+
+### AI & Agents
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lectures, notebooks and resources for prompt engineering
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - Hands-On Large Language Models
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides a comprehensive collection of tutorials and implementations for Generative AI Agents
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository provides a comprehensive collection of tutorials and implementations for Retrieval-Augmented Generation (RAG) systems
+- [labmlai/annotated_deep_learning_papers](https://github.com/labmlai/annotated_deep_learning_papers) - Annotated Deep Learning Papers
+
+### NLP & RL
+- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing
+- [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated
+- [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms) - Implementations of all major Reinforcement Learning algorithms
+
+### Programming & General
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language
-- [Fechin/reference](https://github.com/Fechin/reference) - Share quick reference cheat sheet for developers
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - Playground and cheatsheet for learning Python
+- [Fechin/reference](https://github.com/Fechin/reference) - Share quick reference cheat sheet for developers
 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -295,17 +322,30 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 
 We welcome contributions! Please follow these guidelines:
 
+### Quick Rules
 1. **New additions**: Submit a pull request with your suggested repository
 2. **Format**: Follow the existing format: `- [repo-name](url) - brief description`
 3. **Quality over quantity**: Only submit high-quality, actively maintained repositories
-4. **Categorization**: Choose the most appropriate category; suggest new ones if needed
+4. **Categorization**: See guide below ↓
 5. **Description**: Keep descriptions concise and informative (1-2 lines max)
 
-Before submitting:
+### Categorization Guide
+
+| If the repo is... | Put it in... | Examples |
+|-------------------|--------------|----------|
+| **A course, tutorial, or learning resource** | 📚 [Learning & Reference](#-learning--reference) | `ML-For-Beginners`, `nn-zero-to-hero`, prompt engineering guides |
+| **A tool or framework for production use** | Technical category (e.g., 🧠 ML & Data Science, 🤖 AI Agents) | `scikit-learn`, `crewAI`, `mem0` |
+| **An awesome list** | Matching topic or 📚 Learning | `awesome-datascience`, `awesome-nlp` |
+| **Reference/cheat sheets** | 📚 Learning & Reference → Reference | `reference`, `cheat-sheets` |
+
+**Golden Rule:** One repo, one primary location. Learning resources → Learning. Tools → Technical categories. Cross-references are added automatically where relevant.
+
+### Before submitting
 - Ensure the repository is actively maintained
 - Check that it's not already listed
 - Verify the link works correctly
 - Use the same format as existing entries
+- Follow the categorization guide above
 
 ## About
 
@@ -315,4 +355,4 @@ This collection reflects real-world usage patterns and battle-tested solutions f
 
 ---
 
-*Last updated: February 2026*
+*Last updated: March 2026*
