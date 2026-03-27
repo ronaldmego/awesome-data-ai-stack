@@ -125,6 +125,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 
 ### 📚 Agent Resources & Guides
 
+- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - Framework-agnostic, git-native standard for defining AI agents. Clone a repo, get an agent. Export to Claude Code, OpenAI, CrewAI, LangChain, and more
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work
