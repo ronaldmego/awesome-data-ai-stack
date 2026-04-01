@@ -13,8 +13,10 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
   - [📝 Memory & RAG](#-memory--rag)
   - [💬 Conversational & Chat](#-conversational--chat)
   - [🌐 Browser & Web Agents](#-browser--web-agents)
+  - [🏠 Personal AI Assistants & Gateways](#-personal-ai-assistants--gateways)
   - [📚 Agent Resources & Guides](#-agent-resources--guides)
-- [🔐 AI Governance & Safety](#-ai-governance--safety)
+- [🏛️ Data Governance & Observability](#️-data-governance--observability)
+- [🛡️ AI Safety & Responsible AI](#️-ai-safety--responsible-ai)
 - [🎨 Avatar, Video & Image AI](#-avatar-video--image-ai)
 - [📊 Data Engineering & Analytics](#-data-engineering--analytics)
 - [🧠 ML & Data Science](#-ml--data-science)
@@ -123,6 +125,12 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 
+### 🏠 Personal AI Assistants & Gateways
+
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference and sandboxed isolation
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent with built-in learning loop, user modeling, and OpenClaw migration support
+
 ### 📚 Agent Resources & Guides
 
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - Framework-agnostic, git-native standard for defining AI agents. Clone a repo, get an agent. Export to Claude Code, OpenAI, CrewAI, LangChain, and more
@@ -148,7 +156,16 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way
 
 
-## 🔐 AI Governance & Safety
+## 🏛️ Data Governance & Observability
+
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Unified metadata platform for data discovery, data observability, and data governance, powered by a central metadata repository
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI — data discovery, lineage, and governance at scale
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An open standard for metadata and lineage collection. Track data pipeline jobs, datasets, and runs
+- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - The leading open-source data quality framework. Define, document, and validate data expectations
+- [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data quality testing and monitoring for SQL, Spark, and Pandas. Run checks directly in your pipelines
+- [apache/atlas](https://github.com/apache/atlas) - Apache Atlas provides open metadata management and governance capabilities for organizations that need to build a catalog of their data assets
+
+## 🛡️ AI Safety & Responsible AI
 
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models. Validate and structure LLM outputs with programmable rules
 - [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Open-source toolkit for easily adding programmable guardrails to LLM-based conversational AI
@@ -189,7 +206,6 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) queries any database in natural language, generates accurate SQL, charts
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet)
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - Chat with your SQL database. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents
