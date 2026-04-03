@@ -40,6 +40,8 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent ⭐ 135.5k
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend) ⭐ 15.1k
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent ⭐ 24.2k
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code. Zero learning curve — run parallel agents, define workflows, delegate tasks without learning internals ⭐ 23.0k
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open-source Claude Code CLI for OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible APIs. Same terminal-first workflow, any provider ⭐ 10.5k
 
 ### 🔧 MCP Servers & Skills
 
@@ -67,6 +69,9 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - A VSCode extension for finding and installing Agent Skills and MCP Apps ⭐ 482
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server to have an agent in your agent ⭐ 1.2k
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway ⭐ 2.5k
+- [larksuite/cli](https://github.com/larksuite/cli) - Official Lark/Feishu CLI built for humans and AI Agents. 200+ commands, 20 Agent Skills covering Messenger, Docs, Base, Sheets, Calendar, Mail, Meetings and more ⭐ 6.5k
+- [ronaldmego/openmetadata-mcp-agent](https://github.com/ronaldmego/openmetadata-mcp-agent) - Conversational AI agent for OpenMetadata data catalogs. 27 MCP tools (read + write) — ask in natural language, govern your metadata directly ⭐ OSS
+- [ronaldmego/matomo-mcp-agent](https://github.com/ronaldmego/matomo-mcp-agent) - Talk to your Matomo analytics in natural language. MCP server + Streamlit chat UI powered by LangChain and Gemini ⭐ OSS
 
 ### 🎯 Orchestration & Multi-Agent
 
@@ -79,6 +84,8 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents ⭐ 15.2k
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce ⭐ 27.4k
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build, run, and manage multi-agent systems at scale ⭐ 39.1k
+- [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Spawn parallel AI coding agents, each in its own git worktree. Agents fix CI failures, address review comments, and open PRs autonomously. Agent-agnostic (Claude Code, Codex, Aider) ⭐ 5.7k
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - Swarm intelligence engine that builds a high-fidelity digital world from real-world signals (news, policies, financial data) and simulates thousands of agents to predict future trajectories ⭐ 48.8k
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - A dev-first open source autonomous AI agent framework ⭐ 17.4k
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer ⭐ 33.8k
 - [Danau5tin/multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system) - Reached #13 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents ⭐ 1.4k
@@ -164,6 +171,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - The leading open-source data quality framework. Define, document, and validate data expectations ⭐ 11.3k
 - [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data quality testing and monitoring for SQL, Spark, and Pandas. Run checks directly in your pipelines ⭐ 2.3k
 - [apache/atlas](https://github.com/apache/atlas) - Apache Atlas provides open metadata management and governance capabilities for organizations that need to build a catalog of their data assets ⭐ 2.1k
+- [ronaldmego/agent-data-analyst](https://github.com/ronaldmego/agent-data-analyst) - AI data analyst that reads governance context (OpenMetadata) before running SQL. Profiles tables, classifies variables, detects anomalies — governance-informed analytics, 100% local ⭐ OSS
 
 ## 🛡️ AI Safety & Responsible AI
 
@@ -223,6 +231,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs ⭐ 37.0k
 - [cvs-health/uqlm](https://github.com/cvs-health/uqlm) - UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection ⭐ 1.1k
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework ⭐ 14.4k
+- [google-research/timesfm](https://github.com/google-research/timesfm) - Time Series Foundation Model by Google Research. Pretrained for zero-shot forecasting, 200M params, available in BigQuery. ICML 2024 paper ⭐ 14.0k
 - [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming ⭐ 24.3k
 - [mistralai/cookbook](https://github.com/mistralai/cookbook) - Mistral AI cookbook ⭐ 2.2k
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python ⭐ 219.2k
