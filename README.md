@@ -19,7 +19,6 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
   - [📚 Agent Resources & Guides](#-agent-resources--guides)
 - [🏛️ Data Governance & Observability](#️-data-governance--observability)
 - [🛡️ AI Safety & Responsible AI](#️-ai-safety--responsible-ai)
-- [🎨 Avatar, Video & Image AI](#-avatar-video--image-ai)
 - [📊 Data Engineering & Analytics](#-data-engineering--analytics)
 - [🧠 ML & Data Science](#-ml--data-science)
 - [🛠️ DevTools & Infrastructure](#️-devtools--infrastructure)
@@ -134,12 +133,6 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [NVIDIA/NeMo-Guardrails `5.9k`](https://github.com/NVIDIA/NeMo-Guardrails) - Programmable guardrails for conversational AI
 - [Trusted-AI/AIF360 `2.8k`](https://github.com/Trusted-AI/AIF360) - IBM AI Fairness 360
 - [microsoft/responsible-ai-toolbox `1.7k`](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI dashboard and tools
-
-## 🎨 Avatar, Video & Image AI
-
-- [jamiepine/voicebox `14.4k`](https://github.com/jamiepine/voicebox) - Voice synthesis studio
-- [Comfy-Org/ComfyUI `107.6k`](https://github.com/Comfy-Org/ComfyUI) - Modular diffusion model GUI
-- [resemble-ai/chatterbox `24.1k`](https://github.com/resemble-ai/chatterbox) - State-of-the-art open-source TTS
 
 ## 📊 Data Engineering & Analytics
 
