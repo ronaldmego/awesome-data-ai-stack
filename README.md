@@ -117,6 +117,10 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [eyaltoledano/claude-task-master `26.4k`](https://github.com/eyaltoledano/claude-task-master) - Task management for AI coding
 - [danielmiessler/Fabric `40.3k`](https://github.com/danielmiessler/Fabric) - Framework for augmenting humans using AI
 
+### 🔬 Watching (Early / Experimental)
+
+- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - AI agent framework for Git-based workflows — *Inmaduro pero potencial interesante para agentes de código*
+
 ## 🏛️ Data Governance & Observability
 
 - [open-metadata/OpenMetadata `9.3k`](https://github.com/open-metadata/OpenMetadata) - Unified metadata platform for data discovery and governance
@@ -160,7 +164,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [confident-ai/deepeval `14.4k`](https://github.com/confident-ai/deepeval) - LLM Evaluation Framework
 - [google-research/timesfm `14.0k`](https://github.com/google-research/timesfm) - Time Series Foundation Model
 - [mistralai/cookbook `2.2k`](https://github.com/mistralai/cookbook) - Mistral AI cookbook
-- [firecrawl/firecrawl `102.8k`](https://github.com/firecrawl/firecrawl) - Web Data API for AI
+- ~~[firecrawl/firecrawl `102.8k`](https://github.com/firecrawl/firecrawl) - Web Data API for AI~~ → Ver [Browser & Web Agents](#-browser--web-agents) y [MCP Servers](#-mcp-servers--skills)
 - [academic/awesome-datascience `28.7k`](https://github.com/academic/awesome-datascience) - Data Science resources
 - [hiyouga/LlamaFactory `69.4k`](https://github.com/hiyouga/LlamaFactory) - Fine-tuning 100+ LLMs
 - [lukasmasuch/best-of-ml-python `23.4k`](https://github.com/lukasmasuch/best-of-ml-python) - Ranked ML Python libraries
