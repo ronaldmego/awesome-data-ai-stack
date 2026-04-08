@@ -183,6 +183,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [coderamp-labs/gitingest `14.2k`](https://github.com/coderamp-labs/gitingest) - Prompt-friendly codebase extraction
 - [ahmedkhaleel2004/gitdiagram `15.4k`](https://github.com/ahmedkhaleel2004/gitdiagram) - Interactive diagrams for GitHub repos
 - [AlexsJones/llmfit `20.8k`](https://github.com/AlexsJones/llmfit) - Right-size LLMs to your hardware
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - Convert code into knowledge graphs with Neo4j + interactive visualization
 
 ## 📚 Learning & Reference
 
