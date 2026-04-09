@@ -17,6 +17,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
   - [🌐 Browser & Web Agents](#-browser--web-agents)
   - [🏠 Personal AI Assistants & Gateways](#-personal-ai-assistants--gateways)
   - [📚 Agent Resources & Guides](#-agent-resources--guides)
+- [🔬 Experimental / Early Stage](#-experimental--early-stage)
 - [🏛️ Data Governance & Observability](#️-data-governance--observability)
 - [🛡️ AI Safety & Responsible AI](#️-ai-safety--responsible-ai)
 - [📊 Data Engineering & Analytics](#-data-engineering--analytics)
@@ -117,9 +118,13 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [eyaltoledano/claude-task-master `26.4k`](https://github.com/eyaltoledano/claude-task-master) - Task management for AI coding
 - [danielmiessler/Fabric `40.3k`](https://github.com/danielmiessler/Fabric) - Framework for augmenting humans using AI
 
-### 🔬 Watching (Early / Experimental)
+## 🔬 Experimental / Early Stage
 
-- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - AI agent framework for Git-based workflows — *Inmaduro pero potencial interesante para agentes de código*
+Tools that are new, unproven, or exploring novel approaches. Use with caution — potential high reward, high volatility.
+
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - Claude Code skill that cuts ~65% tokens via caveman-speak compression
+- [getcompanion-ai/feynman](https://github.com/getcompanion-ai/feynman) - AI companion for self-awareness from your chat history
+- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - AI agent framework for Git-based workflows — *Inmaduro, potencial interesante*
 
 ## 🏛️ Data Governance & Observability
 
