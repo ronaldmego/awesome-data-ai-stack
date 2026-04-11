@@ -113,6 +113,7 @@ Unlike generic lists, this catalog focuses on the complete data-to-intelligence 
 - [patchy631/ai-engineering-hub `33.1k`](https://github.com/patchy631/ai-engineering-hub) - Tutorials on LLMs and AI agents
 - [anthropics/skills `109.0k`](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [anthropics/claude-plugins-official `15.8k`](https://github.com/anthropics/claude-plugins-official) - Official Claude Code Plugins
+- [nowork-studio/toprank `187`](https://github.com/nowork-studio/toprank) - Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills that connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship fixes like meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes
 - [google-gemini/gemini-skills `3.1k`](https://github.com/google-gemini/gemini-skills) - Skills for Gemini API
 - [davila7/claude-code-templates `24.0k`](https://github.com/davila7/claude-code-templates) - CLI tool for Claude Code
 - [eyaltoledano/claude-task-master `26.4k`](https://github.com/eyaltoledano/claude-task-master) - Task management for AI coding
