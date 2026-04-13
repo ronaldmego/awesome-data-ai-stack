@@ -182,6 +182,7 @@ Tools that are new, unproven, or exploring novel approaches. Use with caution �
 
 ## 🛠️ DevTools & Infrastructure
 
+- [midudev/autoskills `2.7k`](https://github.com/midudev/autoskills) - Auto-detects tech stack and installs AI agent skills. Built on skills.sh ecosystem
 - [bitnami/containers `4.4k`](https://github.com/bitnami/containers) - Bitnami container images
 - [awesome-selfhosted/awesome-selfhosted `283.5k`](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-hostable network services
 - [coollabsio/coolify `52.5k`](https://github.com/coollabsio/coolify) - Self-hostable PaaS
